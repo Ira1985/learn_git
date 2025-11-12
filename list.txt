@@ -1,2 +1,2 @@
-in list master test 123
+in list master test
 change to fetch
